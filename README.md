@@ -4,7 +4,7 @@ This is a simple demonstration of how to use Kong as an api gateway of Python/Fl
 
 ## Cinema 3 (Microservices Part)
 
-[Cinema 3]("https://github.com/umermansoor/microservices") is an example project which demonstrates the use of microservices for a fictional movie theater. 
+[Cinema 3](https://github.com/umermansoor/microservices) is an example project which demonstrates the use of microservices for a fictional movie theater. 
 The Cinema 3 backend is powered by 4 microservices, all of which happen to be written in Python using 
 Flask.
 
