@@ -44,7 +44,7 @@ Flask.
 
 - Sample request to UserMicroservice: `curl -L -i -X GET http://0.0.0.0:8000/users --header 'Host: users.com'`
 
-- If you wish to add new microservices to kong configuration, service configurations are stored under kong.yml. You can also apply plugins like basic-auth using this configuration file.
+- If you wish to add new microservices to kong configuration, service configurations are stored under `kong.yml`. You can also apply plugins like basic-auth using this configuration file.
 
 ### Credits
 
