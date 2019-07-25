@@ -48,6 +48,6 @@ Flask.
 
 ### Credits
 
-- Thanks for preparing Cinema 3 microservice example to [umermansoor]("https://github.com/umermansoor")
+- Thanks for preparing Cinema 3 microservice example to [umermansoor](https://github.com/umermansoor)
 
-- Thaks for [comment]("https://github.com/Kong/kong/issues/4373#issuecomment-470987094") under [this issue]("https://github.com/Kong/kong/issues/4373")
+- Thaks for [comment](https://github.com/Kong/kong/issues/4373#issuecomment-470987094) under [this issue](https://github.com/Kong/kong/issues/4373)
