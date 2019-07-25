@@ -1,6 +1,6 @@
 # Kong Api Gateway with Flask Microservices
 
-This is a simple demonstration of how to use Kong as a api gateway of Python/Flask Microservices. This tutorial uses DBless setup(declarative_config) of Kong because of its simplicity. By default kong uses postgresql to store its configurations
+This is a simple demonstration of how to use Kong as an api gateway of Python/Flask Microservices. This tutorial uses DBless setup(declarative_config) of Kong because of its simplicity. By default kong uses postgresql to store its configurations
 
 ## Cinema 3 (Microservices Part)
 
